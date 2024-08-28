@@ -56,8 +56,8 @@
 .vr-feature-section-heading {
     color : #1f2933;
     font-family: "Roboto";
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 36px;
+    font-weight: 700;
 }
 
 .vr-feature-image-card {
@@ -92,8 +92,8 @@
 .included-vr-kit-heading  {
     color: #1f2933;
     font-family: "Roboto";
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 36px;
+    font-weight: 700;
 }
 
 .vr-kit-image-card {
@@ -178,3 +178,105 @@
     border-width: 0;
     border-radius: 10px;
 }
+
+.product-section-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.product-card {
+    width: 100%;
+    height: 600px;
+}
+
+.vr-product-bg-container {
+    background-image: url("./Files/vr-products-headset-img.png");
+    background-size: cover;
+}
+
+.product-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.product-card-price {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.buy-now-buttton {
+    color: white;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 120px;
+    height: 40px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.vr-product-bg-container2 {
+    background-image: url("./Files/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+}
+
+.footer-section-container {
+    background-color: #19232d;
+}
+
+.vr-logo {
+    height: 36px;
+    width: 56px;
+}
+
+.footer-section-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 15px 30px 30px 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.icon {
+    color :#5a7184;
+    font-size: 18px;
+}
+
+.footer-section-text {
+    color: #5a7184;
+}
+
+.footer-section-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-section-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.footer-section-copyright {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
